@@ -1,4 +1,4 @@
-Pet adoption website.Built with:
+Pet adoption website. Built with:
 -html
 -php
 -css
